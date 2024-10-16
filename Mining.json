@@ -1,0 +1,10 @@
+{
+    "177.200.64.215" :["DontDie","MiniMapa","HunterCore"],
+    "177.200.64.125" :["DontDie","MiniMapa","HunterCore"],
+    "webhookdiscord" :
+    [
+        "https://discord.com/api/webhooks/1291578369762267166/97xdJPSahNljzYJeLtvWgXHAYZGj1kHWxNu82UAUWYMiSjNhgZhHbYMuvZDsHkU_uVss",
+        "https://discord.com/api/webhooks/1293049046629613583/Yf5-U-ldGRVW8jF1kbTVPcSPCMU82lzzrQQxDW4j_jsn_kGDE6nGr80Q2HBK1TA0dch6",
+        "https://discord.com/api/webhooks/1294754584320806922/8gX_aqA3mRA-fMBOM2RTE67NtFBGTQTRJmFdnLgs6lGhNL_IlEtO_Ynja1ERfch3wUus"
+    ]
+}
